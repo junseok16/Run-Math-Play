@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Undefined
+  - Problem
+  - Coin
+  - PurpleCoin
+  - RedCoin
+  - BlueCoin
+  - GreenCoin
+  - k
+  - Ground
+  - Enemy
+  - DeadZone
+  - Problem1
+  - Problem2
+  - Problem3
+  - Obstacle
+  - CheckPoint2
+  - CheckPoint1
+  - Cannon1
+  - Cannon2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - OverUI
+  - 
+  - 
+  - 
+  - 
+  - Coin
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
